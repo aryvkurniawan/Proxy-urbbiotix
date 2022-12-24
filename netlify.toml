@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://dev-urbbiotix.pantheonsite.io/:splat"
+  to = "https://static.jengker.tech/:splat"
   status = 200
   force = true
